@@ -467,4 +467,7 @@
     let site_url = '{{ url('/') }}';
 </script>
 <script src="js/homePage.js"></script>
+<script>
+    
+</script>
 @endsection

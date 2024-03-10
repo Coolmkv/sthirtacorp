@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AdminController;
+use App\Http\Controllers\ContactUsController;
 use App\Http\Controllers\DestinationController;
 use App\Http\Controllers\HomePageController;
 use Illuminate\Support\Facades\Route;
@@ -26,4 +27,6 @@ Route::middleware(['auth'])->group(function () {
     Route::post("save-destinations", [DestinationController::class, "saveDestinations"])->name("saveDestinations");
     Route::post("destinations-data", [DestinationController::class, "destinationsData"])->name("DestinationsData");
 
+    Route::get("mange-contact-us",[ContactUsController::class,"manageContactUs"])->name("manageContactUs");
+    Route::post("contact-us-data",[ContactUsController::class,"contactUsData"])->name("ContactUsData");
 });

@@ -28,6 +28,8 @@
 <!-- Stylesheet  -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.js"></script>
 <!-- extarnal style -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.3/css/intlTelInput.min.css" rel="stylesheet"/>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.min.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 

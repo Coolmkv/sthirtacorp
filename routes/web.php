@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AdminController;
+use App\Http\Controllers\ContactUsController;
 use App\Http\Controllers\DestinationController;
 use App\Http\Controllers\HomePageController;
 //use Illuminate\Foundation\Application;
@@ -45,6 +46,8 @@ Route::get("tostem",[HomePageController::class,"tostem"])->name("tostem");
 Route::get("greenlam",[HomePageController::class,"greenlam"])->name("greenlam");
 Route::get("sloan",[HomePageController::class,"sloan"])->name("sloan");
 Route::get("vox",[HomePageController::class,"vox"])->name("vox");
+Route::post("contact-us-form",[ContactUsController::class,"saveContactUsDetails"])->name("saveContactUsDetails");
+Route::get('refresh-captcha',[HomePageController::class,"refreshCapthca"])->name("refreshCaptcha");
 
 
 // require __DIR__.'/auth.php';
