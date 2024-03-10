@@ -5,7 +5,6 @@
             <div class="col-md-4 mb-3 order-sm-0">
                 <div class="footer-wrapper_logo">
                     <a href="{{url('/')}}" aria-label="SthirtaCorp"><img src="assets/img/footer-logo.png" alt="logo" /></a>
-                    {{-- <p class="text-white pt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quisquam, officiis architecto unde sed, iste corrupti, ullam assumenda harum maiores quidem earum ab ut voluptatibus? Sint impedit alias atque quo.</p> --}}
                 </div>
                 <div class="footer-wrapper_box_title">
                     <h3>Subscribe for Periodic Updates</h3>
@@ -37,12 +36,12 @@
                         <h3>navigations</h3>
                     </div>
                     <ul class="footer-wrapper_box_list">
-                        <li><a href="#">Connect Us</a></li>
-                        <li><a href="#">Tostem</a></li>
-                        <li><a href="#">Greenlam</a></li>
-                        <li><a href="#">Sloan</a></li>
-                        <li><a href="#">Vox</a></li>
-                        <li><a href="#">Gallery</a></li>
+                        <li><a href="{{ route('contactUs') }}">Connect Us</a></li>
+                        <li><a href="{{ route('tostem') }}">Tostem</a></li>
+                        <li><a href="{{ route('greenlam') }}">Greenlam</a></li>
+                        <li><a href="{{ route('sloan') }}">Sloan</a></li>
+                        <li><a href="{{ route('vox') }}">Vox</a></li>
+                        <li><a href="{{ route('galleryPages') }}">Gallery</a></li>
                     </ul>
                 </div>
             </div>
@@ -52,11 +51,11 @@
                         <h3>Quick Links</h3>
                     </div>
                     <ul class="footer-wrapper_box_list">
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="">Terms &amp; Conditions</a></li>
-                        <li><a href="">Privacy Policy</a></li>
-                        <li><a href="">Cancellation & refund policy</a></li>
-                        <li><a href="">Shipping & delivery policy</a></li>
+                        <li><a href="{{ route('aboutUs') }}">About Us</a></li>
+                        <li><a href="{{ url('/') }}">Terms &amp; Conditions</a></li>
+                        <li><a href="{{ url('/') }}">Privacy Policy</a></li>
+                        <li><a href="{{ url('/') }}">Cancellation & refund policy</a></li>
+                        <li><a href="{{ url('/') }}">Shipping & delivery policy</a></li>
                     </ul>
                 </div>
             </div>
@@ -102,7 +101,7 @@
                     </div>
                     <!-- Sthirta Corpsection title -->
                     <div class="about-section_title geox-section_title our-section_title contact-section_title">
-                        <h2 class="webfixf-in">Contact Us</h2>
+                        <h2 class="webfixf-in">Enquiry now</h2>
                     </div>
                     <div class="contact-box_contant">
                         <div class="contact-box_contant_g">

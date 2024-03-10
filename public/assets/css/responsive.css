@@ -61,6 +61,11 @@
     .column-order:not(.column-order + div){order: 1;}
 }
 @media only screen and (max-width: 767px){
+.order-md-0{position: relative;order: -1;}
+.manage-promo_contant .manage-promo_contant_box {
+    text-align: center;
+    margin: auto;
+}
 /* ------------------------------------
     header navigation section
 ------------------------------------ */
@@ -393,6 +398,7 @@
 }
 .split_wrapper{
     grid-template-columns: 1fr;
+    padding: 1rem 15px;
 }
 /* Greenlam Section  */
 .greenlam-strip ul li{max-width: 100%; flex: 0 0 100%;}

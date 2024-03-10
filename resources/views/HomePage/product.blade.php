@@ -9,10 +9,10 @@
         <div class="promo-banner_content">
             <div class="promo-banner_inner_wrapper">
                 <div class="promo-banner_text">
-                    <h3>There are many variations of passages of Lorem Ipsum available</h3>
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
+                    <h3>Your one-stop destination for premium materials supply, ensuring your projects stand strong and shine bright.</h3>
+                    <p>Empowering construction projects with superior quality materials for lasting durability and supreme expertise.</p>
                     <div class="promo-banner_action">
-                        <a href="#">Register</a>
+                        <a href="{{ route('contactUs') }}">Contect Us</a>
                     </div>
                 </div>
             </div>
@@ -33,8 +33,8 @@
                         </div>
                         <!-- geox section title -->
                         <div class="manage-promo_title">
-                            <h2 class="webfixf-in">Assess remotely.<br>Underwrite &amp; price accurately.</h2>
-                            <p class="webfixf">Valuable property attributes combined with a simple API allow investors and insurers to better select properties, evaluate risk, and streamline underwriting processes.</p>
+                            <h2 class="webfixf-in">Elevating Construction<br> with Quality Materials</h2>
+                            <p class="webfixf">Your one-stop destination for premium building materials, ensuring your projects stand strong and shine bright.</p>
                         </div>
                     </div>
                 </div>
@@ -44,28 +44,37 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="about-section_slide_wrapper ">
-                                        <img src="assets/img/11-png.png" />
+                                        <img src="assets/img/tostem.png" />
                                         <div class="manage-promo_contant-content">
-                                            <h3 class="webfixf">Accurate & Reliable</h3>
-                                            <p class="webfixf">We have refined iterative AI-based systems which have the ability to extract HD Vector Maps with the accuracy of a trained GIS professional, at-scale</p>
+                                            <h3 class="webfixf">Tostem</h3>
+                                            <p class="webfixf">The global leader in pre-engineered window systems.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="about-section_slide_wrapper">
-                                        <img src="assets/img/11-png.png" />
+                                        <img src="assets/img/greenlam_laminates.png" />
                                         <div class=" manage-promo_contant-content ">
-                                            <h3 class="webfixf">3D Attributes</h3>
-                                            <p class="webfixf">We produce millions of km2 of HD Vector Maps per month, offering unmatched speed and scalability across all terrains, while maintaining best-in-class accuracy</p>
+                                            <h3 class="webfixf">Greenlam</h3>
+                                            <p class="webfixf">Mikasa (Greenlam) No.1 surfacing solutions brand.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="about-section_slide_wrapper ">
-                                        <img src="assets/img/11-png.png" alt="img" />
+                                        <img src="assets/img/sloan.png" alt="img" />
                                         <div class="manage-promo_contant-content ">
-                                            <h3 class="webfixf">12+ Billon data point</h3>
-                                            <p class="webfixf">We partner to gain access to the most up-to-date geospatial imagery, which is then rapidly mined using our AI-based systems to  create and maintain the most up-to-date representations of reality</p>
+                                            <h3 class="webfixf">Sloan </h3>
+                                            <p class="webfixf">Innovation generation. A pioneer in plumbing technology.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="about-section_slide_wrapper ">
+                                        <img src="assets/img/vox.png" alt="img" />
+                                        <div class="manage-promo_contant-content ">
+                                            <h3 class="webfixf">Vox </h3>
+                                            <p class="webfixf">Facade systems No.1 surfacing solutions brand.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -76,38 +85,38 @@
                     <div class="manage-promo_contant manage-promo_contant_desktop">
                         <div class="manage-promo_contant_box">
                             <div class="manage-promo_contant_img">
-                                <img src="assets/img/11-png.png" alt="Website" />
+                                <img src="assets/img/tostem.png" alt="Website" />
                             </div>
                             <div class="manage-promo_contant-content">
-                                <h3>Storm Risk</h3>
-                                <p>We have refined iterative AI-based systems which have the ability to extract HD Vector.</p>
+                                <h3>Tostem</h3>
+                                <p>The global leader in pre-engineered window systems.</p>
                             </div>
                         </div>
                         <div class="manage-promo_contant_box">
                             <div class="manage-promo_contant_img">
-                                <img src="assets/img/11-png.png" alt="Website" />
+                                <img src="assets/img/greenlam_laminates.png" alt="Website" />
                             </div>
                             <div class="manage-promo_contant-content">
-                                <h3>Storm Risk</h3>
-                                <p>We have refined iterative AI-based systems which have the ability to extract HD Vector.</p>
+                                <h3>Greenlam </h3>
+                                <p>Mikasa (Greenlam) No.1 surfacing solutions brand.</p>
                             </div>
                         </div>
                         <div class="manage-promo_contant_box">
                             <div class="manage-promo_contant_img">
-                                <img src="assets/img/11-png.png" alt="Website" />
+                                <img src="assets/img/sloan.png" alt="Website" />
                             </div>
                             <div class="manage-promo_contant-content">
-                                <h3>Storm Risk</h3>
-                                <p>We have refined iterative AI-based systems which have the ability to extract HD Vector.</p>
+                                <h3>Sloan</h3>
+                                <p>Innovation generation. A pioneer in plumbing technology.</p>
                             </div>
                         </div>
                         <div class="manage-promo_contant_box">
                             <div class="manage-promo_contant_img">
-                                <img src="assets/img/11-png.png" alt="Website" />
+                                <img src="assets/img/vox.png" alt="Website" />
                             </div>
                             <div class="manage-promo_contant-content">
-                                <h3>Storm Risk</h3>
-                                <p>We have refined iterative AI-based systems which have the ability to extract HD Vector.</p>
+                                <h3>Vox</h3>
+                                <p>Facade systems No.1 surfacing solutions brand.</p>
                             </div>
                         </div>
                     </div>                    
@@ -128,73 +137,19 @@
             <div class="col-md-6">
                 <div class="split_wrapper promo-split-right_banner">
                     <div class="split_wrapper_box">
-                        <h3>Online Quote</h3>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
-                        <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <h3>Tostem</h3>
+                        <p><i>The global leader in pre-engineered window systems</i></p>
+                        <p>A better home is made up of surprisingly simple things – doors and windows that connect you with the world outside; interiors and exteriors that bring spaces to life.</p>
                         <div class="geox-section_content_action our-section_content_action">
-                            <a href="#">Kenow more<span><i class="lni lni-arrow-top-right"></i></span></a>
+                            <a href="{{ route('tostem') }}">Kenow more<span><i class="lni lni-arrow-top-right"></i></span></a>
                         </div>
                     </div>
                     <div class="split_wrapper_box ">
-                        <h3>Online Quote</h3>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
-                        <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <h3>Greenlam</h3>
+                        <p><i>Mikasa Real Wood Floors</i></p>
+                        <p><b>Greenlam</b> is the place where passion meets excellence, creating what can be best described as hallmarks of quality and elegance. The top laminate company in India.</p>
                         <div class="geox-section_content_action our-section_content_action">
-                            <a href="#">Kenow more<span><i class="lni lni-arrow-top-right"></i></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- second -->
-    <div class="promo-split">
-        <div class="promo-split_wrapper row">
-            <div class="col-md-6 corder-frist">
-                <div class="split-left-content">
-                    <div class="manage-promo_titles">
-                        <!-- about section top title -->
-                        <div class="manage-promo_toptitle">
-                            <h3 class="webfixf">OUR Solution</h3>
-                        </div>
-                        <!-- geox section title -->
-                        <div class="manage-promo_title">
-                            <h2 class="webfixf-in">Assess remotely.<br>Underwrite &amp; price accurately.</h2>
-                            <p class="webfixf">Valuable property attributes combined with a simple API allow investors and insurers to better select properties, evaluate risk, and streamline underwriting processes.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 pl-0 pr-0">
-                <div class="promo-split_left_banner">
-                    <img src="assets/img/image-204.jpg" alt="img" />
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="promo-split">
-        <div class="manage-promo_container">
-            <div class="promo-split_wrapper row">
-                <div class="col-md-6 pl-0 pr-0">
-                    <div class="promo-split_left_banner">
-                        <img src="assets/img/image-204.jpg" alt="img" />
-                    </div>
-                </div>
-                <div class="col-md-6 ">
-                    <div class="split-left-content">
-                        <div class="manage-promo_titles">
-                            <!-- about section top title -->
-                            <div class="manage-promo_toptitle">
-                                <h3 class="webfixf">OUR Solution</h3>
-                            </div>
-                            <!-- geox section title -->
-                            <div class="manage-promo_title">
-                                <h2 class="webfixf-in">Assess remotely.<br>Underwrite &amp; price accurately.</h2>
-                                <p class="webfixf">Valuable property attributes combined with a simple API allow investors and insurers to better select properties, evaluate risk, and streamline underwriting processes.</p>
-                            </div>
+                            <a href="{{ route('greenlam') }}">Kenow more<span><i class="lni lni-arrow-top-right"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -202,6 +157,35 @@
         </div>
     </div>
     <!-- product page split section  -->
+    <div class="promo-split">
+        <div class="promo-split_wrapper row">
+            <div class="col-md-6">
+                <div class="split_wrapper promo-split-right_banner">
+                    <div class="split_wrapper_box ">
+                        <h3>Sloan</h3>
+                        <p><i>A pioneer in plumbing technology.</i></p>
+                        <p>Powered by responsible practices <b>sloan</b> continues to build a global brand synonymous with <b>sustainability, energy conservation</b> and <b>water efficient products,</b> with green innovations that include solar powered technologies and all-in-one sink systems. It also ups its game in upscale commercial restroom design, with more stylish and contemporary product options that are as beautiful as they are sustainable.</p>
+                        <div class="geox-section_content_action our-section_content_action">
+                            <a href="{{ route('sloan') }}">Kenow more<span><i class="lni lni-arrow-top-right"></i></span></a>
+                        </div>
+                    </div>
+                    <div class="split_wrapper_box ">
+                        <h3>Vox</h3>
+                        <p><i>Facade systems</i></p>
+                        <p><b>VOX</b> is one of the most innovative brands involved in designing, manufacturing and distributing furniture, home furnishings and building materials in Europe.</p>
+                        <div class="geox-section_content_action our-section_content_action">
+                            <a href="{{ route('vox') }}">Kenow more<span><i class="lni lni-arrow-top-right"></i></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 pl-0 pr-0 order-md-0">
+                <div class="promo-split_left_banner">
+                    <img src="assets/img/image-204.jpg" alt="img" />
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- product extra section -->
     <section class="promo-extra">
@@ -217,29 +201,29 @@
                     <div class="col-md-3">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">01</span>
-                            <h3>Hellow World</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, dolore adipisci. Laboriosam, consectetur delectus non adipisci est, possimus velit totam, necessitatibus aliquid sunt id.</p>
+                            <h3>Accurate & Reliable</h3>
+                            <p>At <b>Sthirta Corp</b>, we pride ourselves on our unwavering commitment to accuracy and reliability. With every delivery, we guarantee precise measurements, consistent quality, and dependable service, empowering you to build with confidence and peace of mind.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">02</span>
-                            <h3>Hellow World</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, dolore adipisci. Laboriosam, consectetur delectus non adipisci est, possimus velit totam, necessitatibus aliquid sunt id.</p>
+                            <h3>Innovative Approach</h3>
+                            <p>Innovation is our cornerstone. From cutting-edge materials to advanced delivery solutions, we're constantly pushing boundaries to bring you the latest in construction technology. Partner with us and stay ahead with innovative building solutions tailored to your needs.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">03</span>
-                            <h3>Hellow World</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, dolore adipisci. Laboriosam, consectetur delectus non adipisci est, possimus velit totam, necessitatibus aliquid sunt id.</p>
+                            <h3>Globally Accepted Designs</h3>
+                            <p>Embrace global standards with our creative solutions. Our curated selection of Products blends international trends with local needs, ensuring your projects stand out while meeting worldwide standards for quality and creativity.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">04</span>
-                            <h3>Hellow World</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, dolore adipisci. Laboriosam, consectetur delectus non adipisci est, possimus velit totam, necessitatibus aliquid sunt id.</p>
+                            <h3>Globally Accepted Designs</h3>
+                            <p>Embrace global standards with our creative solutions. Our curated selection of Products blends international trends with local needs, ensuring your projects stand out while meeting worldwide standards for quality and creativity..</p>
                         </div>
                     </div>
                 </div>

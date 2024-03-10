@@ -43,8 +43,9 @@ breakpoints: {
 
 var swiper = new Swiper('.swiper-containers', {
   slidesPerView: 3,
-pagination: {
-  el: '.swiper-pagination',
+autoplay: {
+  delay: 2500,
+  disableOnInteraction: false,
 },
 breakpoints: {
   320: {

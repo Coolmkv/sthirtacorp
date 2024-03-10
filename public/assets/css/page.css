@@ -168,7 +168,7 @@
     margin: 20px auto;
 }
 .manage-promo_contant_img > img {
-	max-width: 80px;
+	max-width: 120px;
 	width: 100%;
 	max-height: 80px;
 	height: 100%;
@@ -208,7 +208,7 @@
 .split_wrapper {
     display: grid;
     grid-template-rows: auto;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-gap: 40px;
     padding: 15px 0;
     height: 100%;

@@ -49,50 +49,26 @@
             <div class="grid_manage_riskbox_container">
                 <div class="grid_manage_riskbox_content">
                     <h3>Manage Your Risks Accurate</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently.</p>
-
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+                    <p>As the world’s leading manufacturer of plumbing systems, we’ve spent more than a century pioneering smart, water-saving restroom solutions that are built to last a lifetime. Our global team of engineers has developed technologies that improve water e!ciency without compromising design, quality, a"ordability or performance.We understand the dynamic relationship between the world’s water management systems and its water ecosystems. </p>
+                    <p> We have partnered with healthcare establishments, restaurants, hotels, academic institutions, residential and commercial buildings, and other facilities around the world to save millions of liters of water with low flow, water free and reclaimed water technology.</p>
+                    
                     <div class="grid_manage_riskbox_action promo-banner_action">
-                        <a href="#">Button</a>
+                        <a href="{{ route('contactUs') }}">Contect Us</a>
                     </div>
                 </div>
             </div>
             <div class="grid_manage_riskbox_container grid_manage_riskbox_block3">
                 <div class="grid_manage_riskbox_image">
                     <img src="assets/img/vox/about-image-two.jpg" alt="img" />
-                    <p>Lorem Ipsum is simply </p>
+                    <p>Powered by Responsible Practices Sloan </p>
                 </div>
                 <div class="grid_manage_riskbox_image">
                     <img src="assets/img/vox/about-image-three.jpg" alt="img" />
-                    <p>Lorem Ipsum is simply </p>
+                    <p>Powered by Sthirta Corp</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- about us manage risk appartment -->
-
-<!-- about timeline -->
-{{-- <div class="about-timeline">
-    <div class="about-timeline_container">
-        <div class="about-timeline_wrapper">
-            <div class="about-timeline_title">
-                <div class="about-section_title mt-0">
-                    <h2 class="webfixf-in">Company customer types belief</h2>
-                    <p class="webfixf">Valuable property attributes combined with a simple API allow investors and insurers to  better select properties, evaluate risk, and streamline underwriting processes.</p>
-                </div>
-            </div>
-            <div class="timeline_container">
-                <div class="timeline_container_inner">
-                    <div class="timeline_block">
-                        <h3>GeoX-Group Founded</h3>
-                        <p>2010</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
-
 <!-- about timeline -->
 @endsection

@@ -12,7 +12,7 @@
                 <h3>There are many variations of passages of Lorem Ipsum available</h3>
                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
                 <div class="promo-banner_action">
-                    <a href="#">Register</a>
+                    <a href="{{ route('contactUs') }}">Contect Us</a>
                 </div>
             </div>
         </div>
