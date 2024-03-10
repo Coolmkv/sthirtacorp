@@ -6,7 +6,8 @@ use App\Models\GalleryItem;
 use App\Models\NavMenu;
 use App\Traits\CommonFunctions;
 use Exception;
-use Illuminate\Http\Request; 
+use Illuminate\Http\Request;
+use Mews\Captcha\Facades\Captcha;
 
 class HomePageController extends Controller
 {
@@ -223,5 +224,15 @@ class HomePageController extends Controller
         $getAllGalleryImages = $obj->getAllGalleryImages();
         $getAllVideos = $obj->getAllGalleryVideos();
         return view("HomePage.galleryPage",compact("getAllGalleryImages","getAllVideos"));
+    }
+
+    public function refreshCapthca(){
+        try{
+            $return = ["status"=>true,"message"=>"Success","data"=>Captcha::src()];
+            
+        }catch(Exception $exception){
+            $return = ["status"=>false,"message"=>$exception->getMessage(),"data"=>$exception->getTraceAsString()];
+        }
+        return response()->json($return);
     }
 }
