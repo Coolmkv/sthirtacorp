@@ -20,7 +20,7 @@
         <div class="row">
             <div class="col-md-12 mb-4">
                 <div class="about-section_title pro-profile_title">
-                    <h2 class="webfixf-in">Mikasa (Greenlam)</h2>
+                    <h2 class="webfixf-in">Mikasa Real Wood Floors</h2>
                     <p class="webfixf">No.1 surfacing solutions brand</p>
                 </div>
             </div>
@@ -79,7 +79,7 @@
             <div class="col-md-8 col-sm-12 mb-4">
                 <div class="anout-exra_content_block mx-100">
                     <div class="anout-exra_content greenlam-strip">
-                        {{-- <h3>Tostem Sthirta Corp</h3> --}}
+                        {{-- <h3>Tostem</h3> --}}
                         {{-- <h2>ATIS</h2>
                         <p>ATIS is not a window frame, it's a moving art. ATIS believes in beauty of simplicity with no obstruction or distractions. The patent design of ATIS is not only aesthetically pleasing, but has an enormous amount of innovation and technology <b>‘build within’.</b></p> --}}
                         <ul>

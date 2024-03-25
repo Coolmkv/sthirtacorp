@@ -13,7 +13,7 @@
                  <div class="footer-wrapper_box_form mb-3">
                      <form action="">
                          <div class="subscription_box">
-                             <input type="email" placeholder="Insert email" />
+                             <input type="email" placeholder="E-mail ID" />
                              <div class="action_sub">
                                  <input type="submit" name="" value="Update me" />
                              </div>
@@ -38,15 +38,13 @@
              <div class="col-md-2 col-6 mb-3 text-left">
                 <div class="footer-wrapper_box">
                     <div class="footer-wrapper_box_title">
-                        <h3>navigations</h3>
+                        <h3>Navigations</h3>
                     </div>
                     <ul class="footer-wrapper_box_list">
-                        <li><a href="{{ route('contactUs') }}">Connect Us</a></li>
                         <li><a href="{{ route('tostem') }}">Tostem</a></li>
                         <li><a href="{{ route('greenlam') }}">Greenlam</a></li>
                         <li><a href="{{ route('sloan') }}">Sloan</a></li>
                         <li><a href="{{ route('vox') }}">Vox</a></li>
-                        <li><a href="{{ route('galleryPages') }}">Gallery</a></li>
                     </ul>
                 </div>
             </div>
@@ -57,10 +55,12 @@
                     </div>
                     <ul class="footer-wrapper_box_list">
                         <li><a href="{{ route('aboutUs') }}">About Us</a></li>
-                        <li><a href="{{ url('/') }}">Terms &amp; Conditions</a></li>
+                        <li><a href="{{ route('galleryPages') }}">Gallery</a></li>
+                        {{-- <li><a href="{{ url('/') }}">Terms &amp; Conditions</a></li> --}}
                         <li><a href="{{ url('/') }}">Privacy Policy</a></li>
-                        <li><a href="{{ url('/') }}">Cancellation & refund policy</a></li>
-                        <li><a href="{{ url('/') }}">Shipping & delivery policy</a></li>
+                        <li><a href="{{ route('contactUs') }}">Connect Us</a></li>
+                        {{-- <li><a href="{{ url('/') }}">Cancellation & refund policy</a></li> --}}
+                        {{-- <li><a href="{{ url('/') }}">Shipping & delivery policy</a></li> --}}
                     </ul>
                 </div>
             </div>
@@ -71,12 +71,11 @@
                      </div>
                      <div class="footer-wrapper_box_add">
                          <label>Corporate Office:</label>
-                         <p class="mb-2">847, 8th Floor, JMD Megapolis Sector 48 Sohna Road Gurugram Haryana - 122018
-                         </p>
-                         <label>Showroom:</label>
                          <p class="mb-2">D65, Udyog Vihar Phase 5, Gurugram, Haryana, 122016</p>
+                         <label>Showroom:</label>
+                         <p class="mb-2">18-3, Arjun Gali, Radhey Puri Extension, Krishna Nagar, New Delhi-110051</p>
                          <label>Phone No:</label>
-                         <p><a href="tel:+918800442989" class="mb-2">+91 880 044 2989</a></p>
+                         <p><a href="tel:+918826354100" class="mb-2">+91 882 635 4100</a></p>
                          <label>E-mail:</label>
                          <p><a href="mailto:sthirtacorp@gmail.com">sthirtacorp@gmail.com</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a
                                  href="mailto:sales1@sthirtacorp.in">sales1@sthirtacorp.in</a></p>
@@ -102,7 +101,7 @@
  <!-- footer strip section -->
  <input id="enquiry" hidden type="checkbox" />
  <section class="enquiry-form">
-     <label for="enquiry" class="enquiry-button">Enquiry now</label>
+     <label for="enquiry" class="enquiry-button">Enquire now</label>
      <div class="enquiry-container">
          <div class="contact-box_right_box">
              <div class="contact-box_form_box">
@@ -115,7 +114,7 @@
                      </div>
                      <!-- Sthirta Corpsection title -->
                      <div class="about-section_title geox-section_title our-section_title contact-section_title">
-                         <h2 class="webfixf-in">Enquiry now</h2>
+                         <h2 class="webfixf-in">Enquire now</h2>
                      </div>
                      <div class="contact-box_contant">
                          <div class="contact-box_contant_g">
@@ -130,7 +129,7 @@
                              <input type="email" name="email" placeholder="Email Address" />
                          </div>
                          <div class="contact-box_group">
-                             <input type="text" name="cname" placeholder="Company Name" />
+                             <input type="text" name="cname" placeholder="Site Address" />
                          </div>
 
                          <div class="contact-box_group">

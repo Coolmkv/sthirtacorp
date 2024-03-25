@@ -268,7 +268,7 @@
 .promo-extra_border {
 	width: 100%;
 	display: grid;
-	grid-template-columns: repeat(4,1fr);
+	grid-template-columns: repeat(3,1fr);
 	height: 2px;
 	grid-gap: 10px;
 	grid-template-rows: 1fr;
@@ -490,7 +490,7 @@
 .footer-map-section {
     position: relative;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     grid-gap: 10px;
     background-color: rgb(var(--blue-color));
     color: rgb(var(--mblue-color));

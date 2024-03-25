@@ -31,31 +31,58 @@
             </div>
             <div class="row my-shuffle-container">
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["tostem"]'>
-                    <img src="assets/img/vox/about-image-one.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/about-image-one.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["greenlam"]'>
-                    <img src="assets/img/vox/about-image-three.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/about-image-three.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["greenlam"]'>
-                    <img src="assets/img/vox/about-image-two.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/about-image-two.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["sloan"]'>
-                    <img src="assets/img/vox/image-068.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/image-068.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["vox"]'>
-                    <img src="assets/img/vox/vox-about.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/vox-about.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["tostem"]'>
-                    <img src="assets/img/vox/about-image-one.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/about-image-one.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["greenlam"]'>
-                    <img src="assets/img/vox/about-image-three.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/about-image-three.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["greenlam"]'>
-                    <img src="assets/img/vox/about-image-two.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/about-image-two.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
                 <div class="mb-3 grid-col col-6 col-md-3 col-sm-4 picture-item" data-groups='["vox"]'>
-                    <img src="assets/img/vox/vox-about.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                    <div class="service-card-item">
+                        <img src="assets/img/vox/vox-about.jpg"  class="img-fluid" width="" height="" alt="Destinations">
+                        <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                    </div>
                 </div>
             </div>
         </div>

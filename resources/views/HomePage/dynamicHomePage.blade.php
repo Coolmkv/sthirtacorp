@@ -65,7 +65,7 @@
         <div class="pro-profile_wrapper">
             <!-- pro-profile section title -->
             <div class="about-section_title pro-profile_title">
-                <h2 class="webfixf-in">Reliable support, unmatched service</h2>
+                <h2 class="webfixf-in">Brand Association</h2>
                 <p class="webfixf">We're here to ensure your building projects thrive. Your project success is our priority. Reach out to our dedicated customer support team for personalized assistance with all your needs.</p>
             </div>
             <!-- slide proparty wrapper -->
@@ -273,46 +273,46 @@
         <div class="geox-section_wrapper">
             <!-- about section top title -->
             <div class="about-section_toptitle geox-section_toptitle">
-                <h3 class="webfixf">Sthirta Corp Benefits</h3>
+                <h3 class="webfixf">Brand portfolio</h3>
             </div>
             <!-- Sthirta Corpsection title -->
             <div class="about-section_title geox-section_title">
-                <h2 class="webfixf-in">Sthirta Corp High Quality Products & Solutions</h2>
+                <h2 class="webfixf-in">High Quality Products & Solutions</h2>
                 <p class="webfixf">Uncompromising quality, built into every product, every time.</p>
             </div>
             <div class="geox-section_content">
                 <div class="geox-section_content_wrapper">
                     <div class="geox-section_box">
-                        <div class="geox-section_Inner_box">
+                        <a href="{{ route('tostem') }}" class="d-block geox-section_Inner_box">
                             <img src="assets/img/tostem-new.png" alt="Website" />
                             <div class="geox-section_content_box">
                                 <h3 class="webfixf">Tostem</h3>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="geox-section_box">
-                        <div class="geox-section_Inner_box">
+                        <a href="{{ route('greenlam') }}" class="d-block geox-section_Inner_box">
                             <img src="assets/img/greenlam_laminates-new.png" alt="Website" />
                             <div class="geox-section_content_box">
                                 <h3 class="webfixf">Greenlam – Mikasa</h3>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="geox-section_box">
-                        <div class="geox-section_Inner_box">
+                        <a href="{{ route('sloan') }}" class="d-block geox-section_Inner_box">
                             <img src="assets/img/sloan-new.png" alt="Website" />
                             <div class="geox-section_content_box">
                                 <h3 class="webfixf">Sloan</h3>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="geox-section_box">
-                        <div class="geox-section_Inner_box">
+                        <a href="{{ route('vox') }}" class="d-block geox-section_Inner_box">
                             <img src="assets/img/vox-new.png" alt="Website" />
                             <div class="geox-section_content_box">
                                 <h3 class="webfixf">Vox</h3>
                             </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
                 <div class="geox-section_content_action">
@@ -345,7 +345,35 @@
                 {{-- <img src="assets/img/top-view-boards-mdf-material.jpg" alt="img" /> --}}
             </div>
             <div class="our-section_image_box our-section_image_box_2nd">
-                <img src="assets/img/fea-img-416x647.jpg" alt="img" />
+                <div class="service-card swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="service-card-item">
+                            <img src="assets/img/fea-img-416x647.jpg" alt="img" class="img-fluid w-100" />
+                            <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="service-card-item">
+                            <img src="assets/img/fea-img-416x647.jpg" alt="img" class="img-fluid w-100"  />
+                            <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="service-card-item">
+                            <img src="assets/img/fea-img-416x647.jpg" alt="img" class="img-fluid w-100"  />
+                            <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="service-card-item">
+                            <img src="assets/img/fea-img-416x647.jpg" alt="img" class="img-fluid w-100"  />
+                            <p class="service-shor-detail">Providing top-quality materials for every project</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                {{-- <img src="assets/img/fea-img-416x647.jpg" alt="img" /> --}}
             </div>
         </div>
     </div>
@@ -353,7 +381,7 @@
         <div class="our-section_wrapper">
             <!-- about section top title -->
             <div class="about-section_toptitle geox-section_toptitle our-section_toptitle">
-                <h3 class="webfixf">Clint Testimonials</h3>
+                <h3 class="webfixf">Client Testimonials</h3>
             </div>
             <!-- Sthirta Corpsection title -->
             <div class="about-section_title geox-section_title our-section_title">

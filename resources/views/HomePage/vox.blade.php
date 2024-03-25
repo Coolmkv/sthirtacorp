@@ -8,7 +8,7 @@
     </div>
     <div class="about-banner_content">
         <div class="about-banner_text">
-            <h3>Vox - <b>Sthirta Corp</b></h3>
+            <h3><b>VOX</b></h3>
             <p>Our Journey, Our Values" invites you on a captivating voyage through our company's story.</p>
         </div>
     </div>
@@ -21,7 +21,7 @@
             <div class="col-md-12 mb-4">
                 <div class="about-section_title pro-profile_title">
                     <h2 class="webfixf-in">Facade systems</h2>
-                    <p class="webfixf">No.1 surfacing solutions brand</p>
+                    <p class="webfixf">No.1 Surface Solutions Brand</p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -74,7 +74,7 @@
                 <div class="anout-exra_content_block">
                     <div class="anout-exra_content">
                         <h2>Freedom begins at home at vox</h2>
-                        <p>we believe that true freedom starts at home and the place we live in makes a huge impact on our lives. That is why our goal is to continuously develop and deliver comprehensive solutions - from matching collections of wall systems, furniture, doors and floors, to the highest quality facade cladding and soffit.Well chosen cladding will not only give the house an individual character but will provide protection for years, as well.</p>
+                        <p>We believe that true freedom starts at home and the place we live in makes a huge impact on our lives. That is why our goal is to continuously develop and deliver comprehensive solutions - from matching collections of wall systems, furniture, doors and floors, to the highest quality facade cladding and soffit.Well chosen cladding will not only give the house an individual character but will provide protection for years, as well.</p>
                         <div class="tostem-logo-group pt-3">
                             <img src="assets/img/vox/qty.png" class="img-fluid" alt="Tostem" width="" height="" />
                         </div>

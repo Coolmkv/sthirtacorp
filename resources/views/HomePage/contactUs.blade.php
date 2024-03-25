@@ -25,11 +25,11 @@
                     </div>
                     <div class="contact-details">
                         <label>Corporate Office:</label>
-                        <p class="mb-3">847, 8th Floor, JMD Megapolis Sector 48 Sohna Road Gurugram Haryana - 122018</p>
-                        <label>Showroom:</label>
                         <p class="mb-3">D65, Udyog Vihar Phase 5, Gurugram, Haryana, 122016</p>
+                        <label>Showroom:</label>
+                        <p class="mb-3">18-3, Arjun Gali, Radhey Puri Extension, Krishna Nagar, New Delhi-110051</p>
                         <label>Phone No:</label>
-                        <p class="mb-3"><a href="tel:+918800442989" class="mb-2">+91 880 044 2989</a></p>
+                        <p class="mb-3"><a href="tel:+918826354100" class="mb-2">+91 882 635 4100</a></p>
                         <label>E-mail:</label>
                         <p class="mb-3"><a href="mailto:sthirtacorp@gmail.com">sthirtacorp@gmail.com</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="mailto:sales1@sthirtacorp.in">sales1@sthirtacorp.in</a></p>
                     </div>
@@ -60,7 +60,7 @@
                                             <input type="email" name="email" placeholder="Email Address" />
                                         </div>
                                         <div class="contact-box_group">
-                                            <input type="text" name="cname" placeholder="Company Name" />
+                                            <input type="text" name="cname" placeholder="Site Address" />
                                         </div>
                                         
                                         <div class="contact-box_group">
@@ -104,18 +104,11 @@
 </div>
 <div class="footer-map-section">
     <div class="map-item">
-        <div class="map-item-detail">
-            <label>Corporate Office:</label>
-            <p class="mb-2">847, 8th Floor, JMD Megapolis Sector 48 Sohna Road Gurugram Haryana - 122018</p>
-        </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2943.3361185967788!2d77.08365112597231!3d28.50041118095797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19433dbeffe1%3A0x9c2ff4c01544afce!2sUdyog%20Vihar%20Phase%20V%2C%20Udyog%20Vihar%2C%20Sector%2019%2C%20Gurugram%2C%20Haryana%20122022!5e0!3m2!1sen!2sin!4v1707593623694!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
-    </div>
-    <div class="map-item">
-        <div class="map-item-detail">
+        {{-- <div class="map-item-detail">
             <label>Showroom:</label>
-            <p class="mb-2">D65, Udyog Vihar Phase 5, Gurugram, Haryana, 122016</p>
-        </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.2117560276133!2d77.28957947568269!3d28.653377575653337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb348efa70c3%3A0x276235369875fd54!2sSthirtaCorp%20Showroom!5e0!3m2!1sen!2sin!4v1707593766055!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <p class="mb-2">18-3, Arjun Gali, Radhey Puri Extension, Krishna Nagar, New Delhi-110051</p>
+        </div> --}}
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.21175602761!2d77.2895794755536!3d28.653377575653426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb348efa70c3%3A0x276235369875fd54!2sSthirtaCorp%20Showroom!5e0!3m2!1sen!2sin!4v1711397939793!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
     </div>
 </div>
 @endsection

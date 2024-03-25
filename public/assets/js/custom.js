@@ -40,6 +40,21 @@ breakpoints: {
   },
 }
 });
+var swiper = new Swiper('.service-card', {
+  slidesPerView: 1,
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false,
+  },
+  cssMode: true,
+  mousewheel: true,
+  breakpoints: {
+    320: {
+      slidesPerView: 1,
+      spaceBetween: 0,
+    }
+  }
+});
 
 var swiper = new Swiper('.swiper-containers', {
   slidesPerView: 3,

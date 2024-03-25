@@ -21,7 +21,7 @@
             <div class="col-md-6">
                 <div class="anout-exra_content_block">
                     <div class="anout-exra_content">
-                        <h2>Tostem Sthirta Corp</h2>
+                        <h2>Tostem</h2>
                         <h3>The global leader in pre-engineered window systems</h3>
                         <p>A better home is made up of surprisingly simple things – doors and windows that connect you with the world outside; interiors and exteriors that bring spaces to life.</p>
                         <p>Recognized as the industry leader, TOSTEM manufactures a comprehensive range of Window & Door solutions. With over 50 years of experience in developing innovative products that not only anticipates the needs of our society tomorrow, but equally meets the current needs of clients and consumers in different countries and climates.</p>
@@ -73,35 +73,7 @@
             <div class="col-md-6 mb-4">
                 <div class="anout-exra_content_block">
                     <div class="anout-exra_content">
-                        {{-- <h3>Tostem Sthirta Corp</h3> --}}
-                        <h2>ATIS</h2>
-                        <p>ATIS is not a window frame, it’s a moving art. ATIS believes in beauty of simplicity with no obstruction or distractions. The patent design of ATIS is not only aesthetically pleasing, but has an enormous amount of innovation and technology ‘build within’.</p>
-                        <h3>Product features</h3>
-                        <p>ATIS steamline design with beautifuly functionality ensures smooth lines, surfaces, and smooth operations</p>
-                        <ul>
-                            <li><img src="assets/img/tostem/window.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Minimal design frame </span></li>
-                            <li><img src="assets/img/tostem/box.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Thin, light and invisible insect screen</span></li>
-                            <li><img src="assets/img/tostem/door-handle.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>L-Fit handles, easy operation with style</span></li>
-                            <li><img src="assets/img/tostem/glass.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Slim style, wider glass area</span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 pl-0 pr-0">
-                <div class="anout-exra_img anout-exra_video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/TS_AMTlRGTQ?si=PkH-yxtmWqD6ogYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="anout-exra bg-white pt-4 pb-3">
-    <div class="anout-exra_wrapper">
-        <div class="row">
-            <div class="col-md-6 column-order mb-4">
-                <div class="anout-exra_content_block">
-                    <div class="anout-exra_content">
-                        {{-- <h3>Tostem Sthirta Corp</h3> --}}
+                        {{-- <h3>Tostem</h3> --}}
                         <h2>GRANTS</h2>
                         <p>GRANTS is TOSTEM's flagship series. Its innovative design results in a larger surface area of glass for panoramic views. This takes the standard of aluminum windows and doors to another level.</p>
                         <h3>Product features</h3>
@@ -117,35 +89,7 @@
             </div>
             <div class="col-md-6 pl-0 pr-0">
                 <div class="anout-exra_img anout-exra_video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/at7MSlguNJM?si=E4SoDnUuKCahIngs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="anout-exra bg-white pt-4 pb-3">
-    <div class="anout-exra_wrapper">
-        <div class="row">
-            <div class="col-md-6 mb-4">
-                <div class="anout-exra_content_block">
-                    <div class="anout-exra_content">
-                        {{-- <h3>Tostem Sthirta Corp</h3> --}}
-                        <h2>WE 70</h2>
-                        {{-- <p>ATIS is not a window frame, it’s a moving art. ATIS believes in beauty of simplicity with no obstruction or distractions. The patent design of ATIS is not only aesthetically pleasing, but has an enormous amount of innovation and technology ‘build within’.</p> --}}
-                        <h3>Product features</h3>
-                        <p>Smart design profiles and high-quality accessories create an elegant and stylish look.</p>
-                        <ul>
-                            <li><img src="assets/img/tostem/brain.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Cutting-Edge Japanese Technology</span></li>
-                            <li><img src="assets/img/tostem/hammer.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Tested as per Global Standards</span></li>
-                            <li><img src="assets/img/tostem/glass-ref.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Anodised TEXGUARD Coating</span></li>
-                            <li><img src="assets/img/tostem/cogs.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Factory Made, Engineered Product</span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 pl-0 pr-0">
-                <div class="anout-exra_img anout-exra_video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jXLgai4wTAc?si=YK6IWBFYJFqXscDB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/t19M-qmGF6Q?si=k_fUv1wKRtZSESud?color=white&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -157,7 +101,35 @@
             <div class="col-md-6 column-order mb-4">
                 <div class="anout-exra_content_block">
                     <div class="anout-exra_content">
-                        {{-- <h3>Tostem Sthirta Corp</h3> --}}
+                        {{-- <h3>Tostem</h3> --}}
+                        <h2>ATIS</h2>
+                        <p>ATIS is not a window frame, it’s a moving art. ATIS believes in beauty of simplicity with no obstruction or distractions. The patent design of ATIS is not only aesthetically pleasing, but has an enormous amount of innovation and technology ‘build within’.</p>
+                        <h3>Product features</h3>
+                        <p>ATIS steamline design with beautifuly functionality ensures smooth lines, surfaces, and smooth operations</p>
+                        <ul>
+                            <li><img src="assets/img/tostem/window.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Minimal design frame </span></li>
+                            <li><img src="assets/img/tostem/box.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Thin, light and invisible insect screen</span></li>
+                            <li><img src="assets/img/tostem/door-handle.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>L-Fit handles, easy operation with style</span></li>
+                            <li><img src="assets/img/tostem/glass.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Slim style, wider glass area</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 pl-0 pr-0">
+                <div class="anout-exra_img anout-exra_video">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/2t9mwoG29MI?si=k_fUv1wKRtZSESud?color=white&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="anout-exra bg-white pt-4 pb-3">
+    <div class="anout-exra_wrapper">
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <div class="anout-exra_content_block">
+                    <div class="anout-exra_content">
+                        {{-- <h3>Tostem</h3> --}}
                         <h2>WE PLUS</h2>
                         {{-- <p>ATIS is not a window frame, it’s a moving art. ATIS believes in beauty of simplicity with no obstruction or distractions. The patent design of ATIS is not only aesthetically pleasing, but has an enormous amount of innovation and technology ‘build within’.</p> --}}
                         <h3>Product features</h3>
@@ -173,7 +145,35 @@
             </div>
             <div class="col-md-6 pl-0 pr-0">
                 <div class="anout-exra_img anout-exra_video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/at7MSlguNJM?si=R_nKgK_ZsZS6c8ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/2t9mwoG29MI?si=k_fUv1wKRtZSESud?color=white&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="anout-exra bg-white pt-4 pb-3">
+    <div class="anout-exra_wrapper">
+        <div class="row">
+            <div class="col-md-6 column-order mb-4">
+                <div class="anout-exra_content_block">
+                    <div class="anout-exra_content">
+                        {{-- <h3>Tostem</h3> --}}
+                        <h2>WE 70</h2>
+                        {{-- <p>ATIS is not a window frame, it’s a moving art. ATIS believes in beauty of simplicity with no obstruction or distractions. The patent design of ATIS is not only aesthetically pleasing, but has an enormous amount of innovation and technology ‘build within’.</p> --}}
+                        <h3>Product features</h3>
+                        <p>Smart design profiles and high-quality accessories create an elegant and stylish look.</p>
+                        <ul>
+                            <li><img src="assets/img/tostem/brain.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Cutting-Edge Japanese Technology</span></li>
+                            <li><img src="assets/img/tostem/hammer.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Tested as per Global Standards</span></li>
+                            <li><img src="assets/img/tostem/glass-ref.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Anodised TEXGUARD Coating</span></li>
+                            <li><img src="assets/img/tostem/cogs.png" alt="Sthirtacorp" width="" height="" class="img-fluid" /><span>Factory Made, Engineered Product</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 pl-0 pr-0">
+                <div class="anout-exra_img anout-exra_video">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/tzGhn0MlH70?si=k_fUv1wKRtZSESud?color=white&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
         </div>

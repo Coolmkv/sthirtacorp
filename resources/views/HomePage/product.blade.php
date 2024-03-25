@@ -56,7 +56,7 @@
                                         <img src="assets/img/greenlam_laminates.png" />
                                         <div class=" manage-promo_contant-content ">
                                             <h3 class="webfixf">Greenlam</h3>
-                                            <p class="webfixf">Mikasa (Greenlam) No.1 surfacing solutions brand.</p>
+                                            <p class="webfixf">Mikasa Real Wood Floors No.1 surfacing solutions brand.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                             </div>
                             <div class="manage-promo_contant-content">
                                 <h3>Greenlam </h3>
-                                <p>Mikasa (Greenlam) No.1 surfacing solutions brand.</p>
+                                <p>Mikasa Real Wood Floors No.1 surfacing solutions brand.</p>
                             </div>
                         </div>
                         <div class="manage-promo_contant_box">
@@ -195,35 +195,27 @@
                     <span></span>
                     <span></span>
                     <span></span>
-                    <span></span>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">01</span>
                             <h3>Accurate & Reliable</h3>
                             <p>At <b>Sthirta Corp</b>, we pride ourselves on our unwavering commitment to accuracy and reliability. With every delivery, we guarantee precise measurements, consistent quality, and dependable service, empowering you to build with confidence and peace of mind.</p>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">02</span>
                             <h3>Innovative Approach</h3>
                             <p>Innovation is our cornerstone. From cutting-edge materials to advanced delivery solutions, we're constantly pushing boundaries to bring you the latest in construction technology. Partner with us and stay ahead with innovative building solutions tailored to your needs.</p>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="promo-extra_wrrap">
                             <span class="promo-extra_number">03</span>
                             <h3>Globally Accepted Designs</h3>
                             <p>Embrace global standards with our creative solutions. Our curated selection of Products blends international trends with local needs, ensuring your projects stand out while meeting worldwide standards for quality and creativity.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="promo-extra_wrrap">
-                            <span class="promo-extra_number">04</span>
-                            <h3>Globally Accepted Designs</h3>
-                            <p>Embrace global standards with our creative solutions. Our curated selection of Products blends international trends with local needs, ensuring your projects stand out while meeting worldwide standards for quality and creativity..</p>
                         </div>
                     </div>
                 </div>

@@ -304,7 +304,7 @@ body.body_wrapper.fixed-header header.header-wrapper {
     margin: auto 10%;
     max-height: 350px;
     height: 100%;
-    background-color: rgb(var(--blue-color));
+    background-color: rgb(var(--blue-color) / 70%);
     border-radius: 50%;
     overflow: hidden;
     align-items: center;
@@ -484,6 +484,30 @@ body.body_wrapper.fixed-header header.header-wrapper {
 /* ---------------------------------------------------------
                 Home proparty profile section
 --------------------------------------------------------- */
+.service-card-item p.service-shor-detail {
+  position: absolute;
+  bottom: 10%;
+  font: 700 14px/16px var(--font-title);
+  color: #fff;
+  left: 0;
+  right: 0;
+  padding: 8px 10px;
+  background-color: rgb(var(--mbrown-color));
+  margin: 0 0;
+  transition: var(--transition);
+  opacity: 0;
+  visibility: hidden;
+}
+.service-card-item:hover p.service-shor-detail{
+  bottom: 0;
+  visibility: visible;
+  opacity: 1;
+}
+.service-card-item {
+  transition: var(--transition);
+  position: relative;
+  cursor: pointer;
+}
 .pro-profile,.our-section {
 	padding: 3rem 0;
 	background-color: white;
